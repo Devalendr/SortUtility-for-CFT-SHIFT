@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SortUtility:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SortUtility_jar</output-path>
+    <root id="archive" name="SortUtility.jar">
+      <element id="module-output" name="SortUtility" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/target/commons-cli-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/target/commons-cli-1.6.0-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/target/commons-cli-1.6.0-javadoc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
